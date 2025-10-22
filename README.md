@@ -1,5 +1,5 @@
 # GitHub_Repository
-Purpose:  of this repository is to 
+Purpose:   
 
 The steps the researcher followed to complete this tutorial are as follows:
 Step 1 - Install Git on your local machine and create a GitHub account (if you do not already have one).
