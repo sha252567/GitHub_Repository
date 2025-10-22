@@ -1,5 +1,5 @@
 # GitHub_Repository
-Purpose:   
+Purpose: The purpose of this GitHub repository is for the researcher to acquire the skills and knowledge required to create a repository, manage branches, collaborate with others and submit pull requests.
 
 The steps that the researcher followed in order to complete this tutorial are as follows:
 Step 1 - Install Git on a local machine and create a GitHub account.
