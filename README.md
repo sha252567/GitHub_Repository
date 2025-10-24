@@ -1,10 +1,10 @@
 # GitHub_Repository
-Purpose: The purpose of this GitHub repository is for the researcher to acquire the skills and knowledge required to create a repository, manage branches, collaborate with others and submit pull requests.
+Purpose: The purpose of the Git and GitHub repository is for the researcher to acquire the skills and knowledge required to create a repository, manage branches, collaborate with others and submit pull requests.
 
 The steps that the researcher followed in order to complete this tutorial are as follows:
 Step 1 - Install Git on a local machine and create a GitHub account.
 Step 2 - Create a local Git repository on a computer.
-Step 3 - Choose one classmate and add them as a Collaborator on a GitHub repository.
+Step 3 - Choose one classmate and add him/her as a Collaborator on a GitHub repository.
 Step 4 - Create a new branch in the local repository.
 Step 5 - In the new branch, add a new Python file which prints the first and last names of the researcher.
 Step 6 - Commit the new file with a clear message (e.g., “Added sample file for tutorial”).
